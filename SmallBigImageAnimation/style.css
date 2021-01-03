@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap");
+
+body {
+    font-family: "Quicksand", sans-serif;
+    margin: 0;
+}
+* {
+    box-sizing: border-box;
+}
+.title {
+    position: absolute;
+    font-size: 30px;
+    color: blue;
+    top: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.main {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    background: lightblue url("./think humanly.jpg") center center;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s ease;
+    cursor: pointer;
+    position: relative;
+}
+.top-text {
+    position: absolute;
+    left: -300px;
+    top: -10px;
+    font-size: 2.25rem;
+    font-weight: bold;
+    transition: all 0.5s ease;
+    color: purple;
+}
+.bottom-text {
+    position: absolute;
+    bottom: 1rem;
+    right: -200px;
+    transition: all 0.5s ease;
+    color: orange;
+    font-size: 1.2rem;
+}
+.box-enlarge {
+    height: 300px;
+    width: 400px;
+}
+.pull-right {
+    left: 2rem;
+}
+.pull-left {
+    right: 2rem;
+}
