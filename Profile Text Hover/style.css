@@ -1,0 +1,68 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+:root {
+    --cream: #EAECEF;
+    --black: #3E4147;
+    height: 100%;
+}
+body {
+    font-family: 'Arvo', serif;
+    background: black;
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: calc(100% - 16px);
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name{
+        color: honeydew;
+    font-family: emoji;
+    font-style: oblique;
+    margin-bottom: 450px;
+    margin-right: 50px;
+}
+.avatar {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-image: url(./profile.jpg);
+    background-size: cover;
+    background-position: left;
+    cursor: pointer;
+    position: relative;
+}
+/*
+    DIV TOOLTIP
+*/
+.avatar::before, .avatar::after {
+    --scale: 0;
+    position: absolute;
+    top: -1rem;
+    left: 50%;
+    transform: translateX(-50%) translateY(-100%) scale(var(--scale));
+    transition: 0.3s transform;
+    transform-origin: bottom center;
+}
+.avatar::before {
+    content: attr(data-tooltip);
+    padding:  1rem;
+    width: max-content;
+    max-width: 100%;
+    background: var(--black);
+    color: white;
+    text-align: center;
+    border-radius: 0.25rem; 
+}
+.avatar:hover::before, .avatar:hover::after {
+    --scale: 1;
+}
+.avatar::after {
+    content: '';
+    border: 10px solid transparent;
+    border-top-color: var(--black);
+    top: 0.2rem;
+    transform-origin: top center;
+}
