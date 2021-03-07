@@ -3,9 +3,9 @@ It will contain the wonderful CSS Page. I'm learning css from long time !
 
 Card Hover - Stack 🌻 
 
-![Output/Cardhover](Output/cardhover.png)
+![Output/Cardhoverstack](Output/cardhoverstack.png)
 
-![Output/Cardhover1](Output/cardhover1.png)
+![Output/Cardhoverstack1](Output/cardhoverstack1.png)
 
 EMOJI 🌻 CSS ANIMATION 🚀
 
