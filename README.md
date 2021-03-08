@@ -13,8 +13,17 @@ EMOJI 🌻 CSS ANIMATION 🚀
 
 ![CSS EMOJI](https://i.imgur.com/ObqFtlC.png)
 
+Login Form 
+
+![Output/Loginform](Output/loginform.png)
+
+
 Dark Mode Change 
 
 ![Output/Darkmodechange](Output/darkmodechange.png)
 
 ![Output/Darkmodechange1](Output/darkmodechange1.png)
+
+Profile Text Hover
+
+![Output/Profiletexthover](Output/profiletexthover.png)
