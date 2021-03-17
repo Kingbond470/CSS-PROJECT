@@ -18,24 +18,22 @@ Login Form
 ![Output/Loginform](Output/loginform.png)
 
 
-Dark Mode Change 
+Dark Mode Change 🙌
 
 ![Output/Darkmodechange](Output/darkmodechange.png)
 
 ![Output/Darkmodechange1](Output/darkmodechange1.png)
 
-Profile Text Hover
+Profile Text Hover ❤️
 
 ![Output/Profiletexthover](Output/profiletexthover.png)
 
-Password Strength Check
+Password Strength Check  🐱 = 💀
 
 ![Output/Passwordstrengthcheck](Output/passwordstrengthcheck.png)
 
 
-Small Big Image Animation
-
-smallbigimageanimation
+Small Big Image Animation 🏥💉
 
 ![Output/Smallbigimageanimation](Output/smallbigimageanimation.png)
 
