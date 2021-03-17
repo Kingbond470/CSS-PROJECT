@@ -27,6 +27,17 @@ Dark Mode Change
 Profile Text Hover
 
 ![Output/Profiletexthover](Output/profiletexthover.png)
+
 Password Strength Check
 
 ![Output/Passwordstrengthcheck](Output/passwordstrengthcheck.png)
+
+
+Small Big Image Animation
+
+smallbigimageanimation
+
+![Output/Smallbigimageanimation](Output/smallbigimageanimation.png)
+
+
+![Output/Smallbigimageanimation1](Output/smallbigimageanimation1.png)
