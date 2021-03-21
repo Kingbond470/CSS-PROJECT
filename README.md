@@ -24,7 +24,15 @@ Dark Mode Change 🙌
 
 ![Output/Darkmodechange1](Output/darkmodechange1.png)
 
+Colorful Text Animation
+
+![Output/Colorfultextanimation](Output/colorfultextanimation.png)
+
+![Output/Colorfultextanimation1](Output/colorfultextanimation1.png)
+
+
 Profile Text Hover ❤️
+
 
 ![Output/Profiletexthover](Output/profiletexthover.png)
 
@@ -35,7 +43,13 @@ Password Strength Check  🐱 = 💀
 
 Small Big Image Animation 🏥💉
 
+
 ![Output/Smallbigimageanimation](Output/smallbigimageanimation.png)
 
 
 ![Output/Smallbigimageanimation1](Output/smallbigimageanimation1.png)
+
+
+Carousel
+
+![Output/Carousel](Output/carousel.png)
