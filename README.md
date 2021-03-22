@@ -49,7 +49,17 @@ Small Big Image Animation 🏥💉
 
 ![Output/Smallbigimageanimation1](Output/smallbigimageanimation1.png)
 
-
+Error | 404
+ ![Output/Error](Output/error.png)
+ 
+ Home Page
+ 
+ ![Output/Home_page](Output/home_page.png)
+ 
+ Page Scroll Animation
+ 
+ ![Output/Page_scroll](Output/page_scroll.png)
+ 
 Carousel
 
 ![Output/Carousel](Output/carousel.png)
