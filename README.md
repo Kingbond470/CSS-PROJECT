@@ -56,6 +56,11 @@ Error | 404
  
  ![Output/Home_page](Output/home_page.png)
  
+ Pre- Loader
+ 
+ ![Output/Preloader](Output/preloader.png)
+ 
+ 
  Page Scroll Animation
  
  ![Output/Page_scroll](Output/page_scroll.png)
